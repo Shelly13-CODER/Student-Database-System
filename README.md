@@ -18,6 +18,3 @@ void gotoxy (int x, int y) – I have been describing this function in most of t
 
 Note- This function allows you to print text in any place of screen. Using this function in Code::Blocks requires coding, but it can be directly used in Turbo C. Here is a code for this function in Code::Blocks.
 
-![Screenshot 2022-01-03 225630](https://user-images.githubusercontent.com/83346362/147960729-8f41938b-6d43-4b0d-b6cb-88782fe33bf9.png)
-
-![Screenshot 2022-01-03 225719](https://user-images.githubusercontent.com/83346362/147960767-5604cb43-260a-42c6-b5bc-6ea767d0c276.png)
